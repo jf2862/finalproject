@@ -1,2 +1,3 @@
-japan = '/Users/tongshan/Desktop/final/japan.csv'
-canada = '/Users/tongshan/Desktop/final/canada.csv'
+japan = '/Users/tongshan/Documents/finalproject/japan.csv'
+canada = '/Users/tongshan/Documents/finalproject/canada.csv'
+australia = '/Users/tongshan/Documents/finalproject/australia.csv'
