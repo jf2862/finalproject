@@ -6,12 +6,12 @@
 
 ##### we have some basic factors that influence foreign exchange rate, including interest rate, inflation rate, balance of trade, GDP grwoth rate, US Fed fund rate, USDX, and major commodity prices.
 
-##### Follwing is the results of our regressin analysis
+##### Follwing is the results of R sqare from each signle linear regression we preformed
 
-|| *Currency* || *Crude Oil Price* || *Alumimun Price* || *Iron Ore Price* || *GDP Growth Rate* || *Balance of Trade* || *Interest Rate* || *USD Funds Rate* || *USDX* ||
-|| AUD || 0.665 || 0.560 || 0.753 || 0.055 || 0.023 || 0.110 || 0.694 || 0.032 || 0.778 ||
-|| CAD || 0.748 || 0.500 || 0.804 || 0.413 || 0.031 || 0.123 || 0.747 || 0.055 || 0.839 ||
-|| JPY || 0.419 || 0.425 || 0.567 || 0.136 || 0.005 || 0.011 || 0.000 || 0.015 || 0.559 ||
+| Currency | Crude Oil Price | Alumimun Price | Iron Ore Price | GDP Growth Rate | Balance of Trade | Interest Rate | USD Funds Rate | USDX |
+| AUD | 0.665 | 0.560 | 0.753 | 0.055 | 0.023 | 0.110 | 0.694 | 0.032 | 0.778 |
+| CAD | 0.748 | 0.500 | 0.804 | 0.413 | 0.031 | 0.123 | 0.747 | 0.055 | 0.839 |
+| JPY | 0.419 | 0.425 | 0.567 | 0.136 | 0.005 | 0.011 | 0.000 | 0.015 | 0.559 |
 
 
 ##### It implies that both Australia and Canada are important iron and aluminum exporters. They also have a very deep tie to the oil business, which makes Australian dollar and Canadian dollar favorite of currency traders to play on oil prices. Also, around 70% of Canadian crude oil production was exported to the U.S. (USDX) is a measure of the value of the U.S. dollar relative to majority of its most significant trading partners. So we confirm our finding that the economy of US and Canada are highly correlated. 
